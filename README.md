@@ -1,6 +1,8 @@
 # Kevin Largo - Walmart Challenge
 
 ## Prerequisites / Installing / Deployment
+* yarn install
+* yarn start
 
 ## Built With
 
